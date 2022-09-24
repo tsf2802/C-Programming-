@@ -1,0 +1,20 @@
+SWEN-250 Activity Reflection
+
+Name:Takumi Fukuzawa
+
+===========================================================
+Start: 
+Estimated time: 2 hours
+Plan: write pseudocode, then figure out the syntax for C.
+Figure out how to do word count because it seems hard to do with random spaces/enters. Also understand getchar a bit better so I can use  it properly before  starting.
+
+Complete
+Actual time: Roughly 2 hours
+Observations:
+It took a bit of research and stuff to understand the whole 
+deal with using  the < text thing. Also ran into a logic error
+where i was using a or when i should've been using an and 
+so that wasted sosme time. But i learned a lot from from this program!
+
+===========================================================
+

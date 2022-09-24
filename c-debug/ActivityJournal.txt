@@ -1,0 +1,18 @@
+SWEN-250 Activity Reflection
+
+Name: Takumi Fukuzawa
+
+===================================================================
+Part 2 (Part 1 not required)
+Estimated Time 1Hr 
+Plan: 
+look over the C  guidelines and figure o ut the current issues.
+Fix those issues and then comment.
+
+Complete
+Actual Time 1Hr 20Min 
+Observations:
+Commenting on the program cleanly and in a informative way was
+actually very chalengging and I felt like I didn't do a good job.
+===================================================================
+
