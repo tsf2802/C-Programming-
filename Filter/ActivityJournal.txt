@@ -1,0 +1,24 @@
+SWEN-250 Activity Reflection
+
+Name: Takumi Fukuzawa
+
+================================================================
+Start
+Estimated Time	4hr 30min
+Plan:
+-read lectures for malloc and free. Work more with pointers  to 
+use them better. After doing so, beacuse of the similarities to the find
+program take a look at find program to complete this program.
+
+
+Complete
+Actual Time	7hr
+Observations:
+It took a few days of relaxing to be able to give all my effort into coding.
+I was super burnt out and every time I tried  to code and ran into a issue
+i ended up quitting instead of figuiring out the progblem. The programming
+was a great excersise for working with pointers and I feel like I got a
+good understanding, but being burnt out was the biggest obstacle.
+
+
+================================================================

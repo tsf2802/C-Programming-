@@ -1,0 +1,23 @@
+SWEN-250 Activity Reflection
+
+Name:Takumi Fukuzawa
+
+================================================================
+Start
+Estimated Time	4 Hr
+Plan:
+Mess around with pointers to understand how they work better. 
+For each method as they are similar try to see if you can use previous methods
+while writing current methods.
+
+Complete
+Actual Time	5Hr
+Observations:
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+This program was hard because of the syntax of pointers. I knew 
+what i wanted to do with the pointers but had trouble coding those ideas.
+Furthermore, I got overwhelemd with other work I couldn't focus on this
+program really until the weekend. Learned a lot about pointers for this program
+but really need to catch up.
+
+================================================================
