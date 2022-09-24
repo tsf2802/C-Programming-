@@ -1,0 +1,30 @@
+SWEN-250 Activity Reflection
+
+Name: Takumi Fukuzawa
+
+================================
+Start Part 1
+Estimated Time: 3 Hours
+Plan: 
+Figure out the C language a bit
+write code similar to java, and attempt to run
+Start tweaking the code to follow c rules instead of java
+try running until it finally works.
+Will be rough to learn C but will keep trying my best.
+
+Complete
+Actual Time: roughly 4 hours?
+Observations: The Nitron commands and typing in C and writing code in C proved to be wayyyy harder than I could've imagined. It doesn't help that I have a 60% keyboard. Afte accessing putty through my laptop coding became much easier because of the keyboard.
+===============================================
+Start Part 2
+Estimated Time: 2 Hours
+Plan: 
+copy the file, I read how to do this somewhere to it should be ok
+then do some research on how to do float variables 
+Once i understand the properties of float variables I will attempt to midify the code
+For testing, I will keep tweaking it until I get the results I want
+
+Complete
+Actual Time:30 minutes
+Observations:It really should have only taken 5 minutes, but being new to Putty I totally forgot to recompile my code with the gcc command! Well, It took quite long to figure out why my program kept not working when I knew the code was right but otherwise this part was super easy.
+

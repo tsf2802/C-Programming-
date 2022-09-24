@@ -1,0 +1,25 @@
+SWEN-250 Activity Reflection
+
+Name: Takumi Fukuzawa
+
+================================================================
+Start
+Estimated Time	3 Hr 
+Plan:
+Start with the make file. Look back at the zoom lecture
+and look at the make file presentation.
+From there, understand pointers through the pointers/arrays
+presentation and then write pseudocode, then write the program.
+(Order of implementation, testing approach, etc.)
+
+Complete
+Actual Time 4Hr 30 
+Observations:
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+Surprisingly, the .h  file took the longest to figure out because
+despite understanding how pointers worked, I couldn't get the parameters 
+right for the .h file until i realised they also needed 
+to mimic the .c file parameters nearly identically. Otherwise
+writing the actual loop for getchar was very easy.
+
+================================================================

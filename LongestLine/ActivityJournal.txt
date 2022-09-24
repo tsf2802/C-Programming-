@@ -1,0 +1,34 @@
+SWEN-250 Activity Reflection
+
+Name: Takumi Fukuzawa
+
+===================================================================
+Part 1
+Estimated Time 1 Hour
+Plan:
+Look at course lectures to refresh oin C material.
+If iremember correctly there was a similar function in
+one of the powerpoints.
+Complete
+Actual Time 2Hr 30 mins
+Observations:
+The read function was in the class lectures but I kept running into 
+an error with how things were supposed to be returned.
+
+
+===================================================================
+Part 2 
+Estimated Time 1 Hour
+Plan:
+This will require work with copying arrays with loops.
+Just pass two arrays and make 1 equal the other with each index.
+
+Complete
+Actual Time: 10 minutes
+Observations:
+This was a lot e asier than I predicted because the loop I wrote
+worked on the first try and doing unit testing was easy.
+
+
+===================================================================
+
