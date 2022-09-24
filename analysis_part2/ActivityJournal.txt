@@ -1,0 +1,131 @@
+SWEN-250 Document Analysis Journal
+
+Implement these functions in the order below.
+
+Your name: Takumi Fukuzawa
+================================================================
+process_word
+Start
+Estimated Time	3 Hr
+Plan:
+The plan is to  get the exception out of the way first.
+The I loop through the list to find the word, and then deal if I add to the count
+or have to create a new list. All options should return 1 because the exceptions are out of the way.
+
+Complete
+Actual Time	2 HR +1 Hr
+Observations:
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+This was a  pretty easy method after I figured out that 
+I could use the previous methods from part1. I ended up basically rewriting
+the find one but didn't want to scrap working code so just left it there.
+
+Edit:after  starting get_next_word i started failing tests due to a faulty process_word so I had to rewrite it again.
+Took roughly a hour or so to figure out the problem, and I was neglecting one case. Also
+i decided to structure the method much better this time since my first push used a written loop instead of using find_word.
+
+================================================================
+get_first_word
+Start
+Estimated Time	2 Hr
+Plan:
+Use pointerts to do the one.word and unique word stuff.
+(Order of implementation, testing approach, etc.)
+Get the bad cases that return 0 out of the way first. Then check for the other cases. with a clean if statement structure
+Complete
+Actual Time	6 HR
+Observations:
+My first iteration with pointers worked fine until I got to next word where it I ran into an error with process word. So i had to go
+back and fix this method as well to keep the styling consistent. But after knocking out this method, the get next/last/prev seem to be the same 
+structure so as long as I got this method the rest followed pretty easily.
+
+
+================================================================
+get_next_word
+Start
+Estimated Time	2HR
+Plan:
+(Order of implementation, testing approach, etc.)
+Follow the same structure as get first word
+Complete
+Actual Time	1HR
+Observations:
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+It was as expected but ran into a few errors that held me back. 
+
+================================================================
+get_last_word
+Start
+Estimated Time	30 Min
+Plan:
+(Order of implementation, testing approach, etc.)
+same deal as the previous get, and just copy the structure and change the needed things.
+Complete
+Actual Time	15 Mins
+Observations:
+It went as expected, and after a good structure for the previous get methods this one was easy.
+
+
+================================================================
+get_prev_word
+Start
+Estimated Time	30 Min
+Plan:
+(Order of implementation, testing approach, etc.)
+same deal, as the previous get methods. Just follow the same structure 
+Complete
+Actual Time	10 Mins
+Observations:
+This one also had no problem as the strutre was good of my previous get methods. 
+This marks the end of the get methods here.
+
+================================================================
+read_file through test 56
+Start
+Estimated Time	5 Hr
+Plan:
+Get the initial conditions out of the way, most are already written?
+take a look at how to do ascii charachters/any functions that could help
+requires 1 loop guaranteed to read thru
+(Order of implementation, testing approach, etc.)
+
+Complete
+Actual Time	3 Hours
+Observations:
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+This got really easy, after figuring out that i didnthave to mess with ascii charachters
+and that there were infact helper functions. for example is alpha looking at alphanumeric valeus was helpful.
+instead of adding 32 to ascii numbers, i could shorten it to tolower as well.
+
+================================================================
+write_unique_word_list_to_csv_file
+Start
+Estimated Time	4 HRS
+Plan:
+(Order of implementation, testing approach, etc.)
+look out how to output things into a file
+as usual knock out all of the cases that are Null n stuff first
+
+Complete
+Actual Time	~ roughly 3 hours lost count
+Observations:
+I was able to write the letter really easily because it requires fputs but the number was harder to do because 
+you actyally had to use something different which was fprintf. Anyway the biggest hurdle was to figure out to make the
+output like it is.
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+================================================================
+Add four unit tests to the unit_tests_student.c file
+Start
+Estimated Time	HH MM
+Plan:
+(Order of implementation, testing approach, etc.)
+
+Complete
+Actual Time	HH MM
+Observations:
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+================================================================

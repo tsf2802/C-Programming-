@@ -1,0 +1,80 @@
+SWEN-250 Document Analysis Journal
+
+Implement these functions in the order below.
+
+Your name : Takumi Fukuzawa
+
+================================================================
+create_node
+Start
+Estimated Time	4 Hr
+Plan:
+Watch the march 17, 15, 12 lectures again for the project information.
+While watching I really understood the lectures well because it was the second time
+so I processed the information better, and already had an idea of what i needed
+to know. 
+
+
+Complete
+Actual Time	4Hr 40M
+Observations:
+Even after watching the lecture again,  I definitely found it hard to work with structs. I felt like i was doing a lot o f guess work with the -> but eventually I figured out that I needed to look  more at the .h file for the names and such, then rereading the coding instructions. Then i was able to figure out what one _word and word_count meant in the instructions.Getting this first part was super hard and I've been feeling super bad for putting this project aside.
+
+================================================================
+add_node_at_head
+Start
+Estimated Time 3HR
+Plan:
+Follow the instructions. Understand the .h file structs.
+
+Complete
+Actual Time	2 HR 20
+Observations:
+The challenge here was understanding the linked list structure. Although I could get through create_node pretty harmlessly without knowing the linked list structure well, this one made me have to understand how each struct worked togehter.
+
+
+================================================================
+clear_linked_list
+Start
+Estimated Time	3 HR
+Plan:
+Just iterate through the linked list and clear each node.
+Remember to check for any exceptions.
+
+Complete
+Actual Time	6 HR 30 MIN
+Observations:
+I really need to ask for help more. This method could've been done at 4 Hours ish. 
+My first try writing this program i messed up the looping so i rewrote the program.
+That worked, but despite knowing my logic was correct it did not pass the tests I knew it shoudlve' passed.
+I ended up asking robert for help, and turns out i forgot the most basic thing: adding 1 to the returned int every time it looped. I wasted too much time because i was so focused other parts of the method. This was a really sad moment
+
+
+================================================================
+add_node_after_current
+Start
+Estimated Time	3 HR
+Plan:
+I plan on using add node to head like stated in the requiremenents. And then  I will check the different conditions that will have a node added. Also will use  create node when i need to.
+
+Complete
+Actual Time  5 HR
+Observations:
+I REALLY need to get better at gdb. This program I also ended up wasting so much time because of a logic error with a if statement having a != instead of a ==. There were a few errors i had here and there before that but that was the final problem I ended up encountering. 
+
+
+================================================================
+find_word
+Start
+Estimated Time	4 HR
+Plan:
+First look at the strcmp method because it seems to be a crucial part of this project. The find word method seems a bit easier but the tricky part seems to be when you return 0 when there is no word. Otherwise structurally, I know that there needs to be two while statements.
+
+Complete
+Actual Time	3 HR 30 min
+Observations:
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+This method did not take too long and was definitely on the right track. Working still with structs is very hard and the hardest part was the insertion part because of the three different possibilities.
+
+
+================================================================
